@@ -1,7 +1,8 @@
 
 ## Hi! I am Hugo Fraga 😉
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoFR1&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFR1&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 ## I am able to work with these technologies:
 
