@@ -1,9 +1,9 @@
 
-## Olá! eu sou o Hugo Fraga 😉
+## Hi! I am Hugo Fraga 😉
 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoFR1&show_icons=true&theme=onedark)
 
-## Tecnologias que eu utilizo:
+## I am able to work with these technologies:
 
 <div style="display: inline_block"><br/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,25 +18,9 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-## Sobre mim:
+## About me:
 
-- Sou um Dev iniciante que busca aprender mais tecnologias e me aprofundar no mercado, no momento trabalho na parte do suporte porém faço alguns projetos back-end em minha empresa atual, pretendo me tornar um full-stack.<br/>
+- I am a begginer Developer looking for learn more technologies and get more into the job market, currently I work as a Support analyst but am also working on some back-end projects at my current company. I intend to become a full-stack developer.<br/>
 
-## Contato:
+## Contact me:
 - hugofrodrigues.dev@gmail.com<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
