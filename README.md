@@ -1,5 +1,5 @@
 
-## Hi! I am Hugo Fraga 😉
+## Hi! I am Hugo Fraga 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFR1&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoFR1&show_icons=true&theme=radical)
@@ -21,7 +21,7 @@
 
 ## About me:
 
-- I am a begginer Developer looking for learn more technologies and get more into the job market, currently I work as a Support analyst but am also working on some back-end projects at my current company. I intend to become a full-stack developer.<br/>
+- Software Developer | Java Spring | Angular 17v | JavaScript | TypeScript | SQL and noSQL | Junit |<br/>
 
 ## Contact me:
 - hugofrodrigues.dev@gmail.com<br/>
