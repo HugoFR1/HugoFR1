@@ -2,7 +2,6 @@
 ## Hi! I am Hugo Fraga 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFR1&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoFR1&show_icons=true&theme=radical)
 
 ## I am able to work with these technologies:
 
