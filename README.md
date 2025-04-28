@@ -20,7 +20,7 @@
 
 ## About me:
 
-- Software Developer | Java Spring | Angular 17v | JavaScript | TypeScript | SQL and noSQL | Junit |<br/>
+- Software Developer | Java Spring | Angular 17v | React | JavaScript | TypeScript | SQL and noSQL | Junit |<br/>
 
 ## Contact me:
 - hugofrodrigues.dev@gmail.com<br/>
