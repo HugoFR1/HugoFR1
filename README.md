@@ -144,7 +144,7 @@ I'm Hugo Fraga.
     title="Swagger"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
 />
           
 <br/>
@@ -153,8 +153,6 @@ I'm Hugo Fraga.
 ### 📊 My stats
 
 <p>
-  
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoFR1&show_icons=true&theme=tokyonight)
 <img 
       align="left" 
       alt="GitHub Stats" 
