@@ -150,14 +150,4 @@ I'm Hugo Fraga.
 <br/>
 <br/>
 
-### 📊 My stats
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoFR1&theme=tokyonight&layout=compact&custom_title=Tecnologies&langs_count=9" 
-  />
-
-</p>
